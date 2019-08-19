@@ -1,0 +1,17 @@
+
+# IDE
+.idea/
+
+# Artifacts
+*.jar
+*.war
+*.ear
+*.class
+
+# Gradle
+.gradle
+build/
+**/build/
+.gradletasknamecache
+gradle-app.setting
+!gradle-wrapper.jar
